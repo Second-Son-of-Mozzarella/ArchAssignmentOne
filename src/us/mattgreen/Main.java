@@ -47,6 +47,8 @@ public class Main {
                     zoo.add(new Cat(kills, name));
                     break;
 
+
+
                 default:
                     runVar = false;
                     break;
